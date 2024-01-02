@@ -3,7 +3,7 @@
 Built with Python's Tkinter and OpenWeatherMap API, this app fetches current weather data for cities. Input a city name, click "Get Weather," and view details like city name, weather conditions, and temperature (°F).
 
 
- # Output
+# Output
 
  
 ![1](https://github.com/29Shivani/WeatherForecastGUI/assets/74962213/bd1761a2-4626-4af3-9ce3-ec1ee30554b6)
