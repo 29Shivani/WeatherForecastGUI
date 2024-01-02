@@ -2,6 +2,19 @@
 
 Built with Python's Tkinter and OpenWeatherMap API, this app fetches current weather data for cities. Input a city name, click "Get Weather," and view details like city name, weather conditions, and temperature (°F).
 
+# Introduction
+Overview of the project: This Python-based endeavor harnesses the capabilities of Tkinter, a versatile GUI toolkit, to provide a platform where users can effortlessly retrieve up-to-date weather forecasts based on their entered city names. Leveraging the OpenWeatherMap API's extensive weather data repository, this project endeavors to empower users with a seamless and intuitive means of accessing weather information.
+**Aim:** Providing users with an intuitive platform to access weather forecasts based on city names.
+
+# Tools & Technologies Used
+**Tkinter:** Employed for creating the graphical interface.
+**Requests Library:** Utilized for handling HTTP requests to communicate with the OpenWeatherMap API.
+**OpenWeatherMap API:** Integrated to retrieve real-time weather data based on user-entered city names.
+
+# Functionality
+**User Input:** Explanation of user input through the entry field and handling user queries.
+**API Calls:** Description of the HTTP requests made to the OpenWeatherMap API to fetch weather data.
+**Data Presentation:** Formatting and presentation of weather information through the GUI using format_response().
 
 # Output
 
