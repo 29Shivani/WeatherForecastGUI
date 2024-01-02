@@ -8,12 +8,16 @@ Overview of the project: This Python-based endeavor harnesses the capabilities o
 
 # Tools & Technologies Used
 **Tkinter:** Employed for creating the graphical interface.
+
 **Requests Library:** Utilized for handling HTTP requests to communicate with the OpenWeatherMap API.
+
 **OpenWeatherMap API:** Integrated to retrieve real-time weather data based on user-entered city names.
 
 # Functionality
 **User Input:** Explanation of user input through the entry field and handling user queries.
+
 **API Calls:** Description of the HTTP requests made to the OpenWeatherMap API to fetch weather data.
+
 **Data Presentation:** Formatting and presentation of weather information through the GUI using format_response().
 
 # Output
